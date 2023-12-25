@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "${KIPRJMOD}/libraries/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
+  (lib (name "A4988_STEPPER_MOTOR_DRIVER_CARRIER")(type "KiCad")(uri "${KIPRJMOD}/libraries/A4988_STEPPER_MOTOR_DRIVER_CARRIER.kicad_sym")(options "")(descr ""))
+  (lib (name "usini_sensors")(type "KiCad")(uri "${KIPRJMOD}/libraries/usini_sensors.kicad_sym")(options "")(descr ""))
+)
